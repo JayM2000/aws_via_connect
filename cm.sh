@@ -5,4 +5,4 @@ apt install nginx -y
 systemctl start nginx
 systemctl enable nginx
 mkdir -p /var/www/html/mobile
-echo "from SERVER 1" > /var/www/html/index.html
+echo "from SERVERS" > /var/www/html/index.html
