@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "# aws_via_connect" >> README.md
+# echo "# aws_via_connect" >> README.md
 git add .
 read -p "Enter commit message: " cm
 git commit -m "$cm"
